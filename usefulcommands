@@ -1,0 +1,2 @@
+# Useful commands
+bundle exec rails server -b $IP -p $PORT
